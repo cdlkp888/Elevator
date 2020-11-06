@@ -1,0 +1,13 @@
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.csprojAssemblyReference.cache
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.AssemblyInfoInputs.cache
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.AssemblyInfo.cs
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.csproj.CoreCompileInputs.cache
+D:\dev\C#\Elevators\bin\Debug\netcoreapp3.1\Elevators.exe
+D:\dev\C#\Elevators\bin\Debug\netcoreapp3.1\Elevators.deps.json
+D:\dev\C#\Elevators\bin\Debug\netcoreapp3.1\Elevators.runtimeconfig.json
+D:\dev\C#\Elevators\bin\Debug\netcoreapp3.1\Elevators.runtimeconfig.dev.json
+D:\dev\C#\Elevators\bin\Debug\netcoreapp3.1\Elevators.dll
+D:\dev\C#\Elevators\bin\Debug\netcoreapp3.1\Elevators.pdb
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.dll
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.pdb
+D:\dev\C#\Elevators\obj\Debug\netcoreapp3.1\Elevators.genruntimeconfig.cache
